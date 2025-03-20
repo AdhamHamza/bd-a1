@@ -1,4 +1,5 @@
 # bd-a1
+```
 PS C:\Users\abdelrahman\Desktop\DockerStuff\bd-a1> docker build -t bd-a1-image .
 [+] Building 2.3s (12/12) FINISHED                                                                                                     docker:desktop-linux
  => [internal] load build definition from Dockerfile                                                                                                   0.0s
@@ -92,3 +93,4 @@ DataFrame saved to res_dpre.csv
 
 [5 rows x 13 columns]
 Visualization saved as vis.png.
+```
