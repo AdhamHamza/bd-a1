@@ -1,0 +1,1 @@
+Median of column Fare: 14.4542
