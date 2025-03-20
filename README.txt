@@ -91,3 +91,9 @@ DataFrame saved to res_dpre.csv
 
 [5 rows x 13 columns]
 Visualization saved as vis.png.
+
+HP@DESKTOP-SGE65JB MINGW64 ~/Desktop/bd-a1
+$ docker tag bd-a1 adhamhamza/bd-a1:latest
+
+HP@DESKTOP-SGE65JB MINGW64 ~/Desktop/bd-a1
+$ docker push adhamhamza/bd-a1:latest
